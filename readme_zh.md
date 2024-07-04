@@ -219,7 +219,7 @@ $$ R@k=\frac{正确结果在检索排名前 k 的样本个数}{全部样本个�
 
 ## 数据获取与引用
 
-CVLUE数据可根据CC BY-NC-ND 4.0许可要求免费获取。请通[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link)提交您的请求。填写完表单后，您将收到一个下载链接。请将下载链接复制到新的网页中，直接点击链接将导致错误。
+您可以在遵循CC BY-NC-ND 4.0许可协议的要求下免费获取CVLUE数据。请通过[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link)提交您的请求，填写完表单后，您将收到相应的下载链接。请将下载链接复制到新的网页中，直接点击链接将导致错误。
 
 如果您使用了CVLUE数据，请引用以下论文：
 
