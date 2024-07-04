@@ -102,7 +102,7 @@ This task includes images from the following 15 major categories and 92 subcateg
 
 ## Data Examples
 
-Next, data examples for each task category are provided.
+Data examples for each task category are provided.
 
 ### Image-Text Retrieval
 
