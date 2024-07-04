@@ -217,5 +217,20 @@ $$ \overline{IoU}=\frac{全部预测结果的 IoU 之和}{全部定位样本数�
 $$ R@k=\frac{正确结果在检索排名前 k 的样本个数}{全部样本个数} $$
 
 
+## 数据获取与引用
 
+CVLUE数据可根据CC BY-NC-ND 4.0许可要求免费获取。请通[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link)提交您的请求。填写完表单后，您将收到一个下载链接。请将下载链接复制到新的网页中，直接点击链接将导致错误。
+
+如果您使用了CVLUE数据，请引用以下论文：
+
+```
+@misc{wang-etal-2024-cvlue,
+    title={CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation},
+    author={Yuxuan Wang and Yijun Liu and Fei Yu and Chen Huang and Kexin Li and Zhiguo Wan and Wanxiang Che},
+    year={2024},
+    eprint={2407.01081},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
 
