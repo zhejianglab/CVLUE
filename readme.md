@@ -1,5 +1,10 @@
 # <p align="center"><font size=50><strong>CVLUE: Chinese Vision-Language Understanding Evaluation</strong></font></p>
 
+<p align="left">
+   ｜ <a href="README-CN.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp ｜ 
+</p>
+
+
 ## Task Introduction
 
 The Chinese Vision-Language Understanding Evaluation (CVLUE) task aims to evaluate the vision-language modeling and understanding capabilities of Chinese vision-language pre-training models from multiple perspectives, including Image-Text Retrieval, Visual Question Answering, Visual Grounding, and Visual Dialog. This task includes the following five sub-tasks:
