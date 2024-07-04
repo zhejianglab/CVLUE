@@ -1,7 +1,7 @@
 # <p align="center"><font size=50><strong>CVLUE: Chinese Vision-Language Understanding Evaluation</strong></font></p>
 
 <p align="left">
-   ｜ <a href="README-CN.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp ｜ 
+   ｜ <a href="readme_zh.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp ｜ 
 </p>
 
 
