@@ -226,7 +226,7 @@ $$ R@k=\frac{Number\ of\ correct\ results\ in\ the\ top\ k\ retrieval\ rankings}
 
 ## Data Access and Citation
 
-The CVLUE data is freely available upon request under the CC BY-NC-ND 4.0 license. Please submit your request via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link). (Please copy the download link to a new webpage. Clicking the link directly will result in an error.)
+The CVLUE data is freely available upon request under the CC BY-NC-ND 4.0 license. Please submit your request via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link). After completing the form, you will receive a download link. Please copy the download link to a new webpage. Clicking the link directly will result in an error.
 
 
 If you use the CVLUE data, please cite the following paper:
